@@ -44,11 +44,11 @@ input{
 .r3
 
 {
-    height: 53px;
+   height: 56px;
     width: 60px;
-    border: 2px solid red;
+    border: 2pxsolid red;
     position: relative;
-    margin-top: 109px;
+    margin-top: 106px;
     margin-left: 20px;
     border-radius: 10px;
     display: inline-block;
@@ -114,15 +114,14 @@ input{
 }
 .r8
 {
-    padding-right: 61px;
-    border: 1px solid red;
+   padding-right: 61px;
+    border: 1pxsolid red;
     position: relative;
-    top:0px;
-    left:-1px;
-    
+    top: 0px;
+    left: -2px;
     border-radius: 10px;
     border-top-left-radius: 0px;
-    border-top-right-radius: 0px;   
+    border-top-right-radius: 0px;
 }
 .r9
 {
@@ -148,10 +147,10 @@ input{
 
 .line{
     padding-right: 60px;
-    border: 0px solid red;
+    border: 2px solid red;
     position: relative;
-    top: 0px;
-    left: 0px;
+    top: -2px;
+    left: -2px;
     border-radius: 10px;
     
     
